@@ -151,6 +151,7 @@ Customers may initially see value but fail to continue usage overtime
 
 (iii) Across all plans, revenue has been recovered before customer churn.
  That is customers tenure is long enough to recover their acquisition cost.
+ 
 <img width="1234" height="353" alt="20ba102f-de3a-449e-bd51-e1a3c78140d3" src="https://github.com/user-attachments/assets/8ca1fdbe-63ad-43cb-bbac-6d12197b4a13" />
 
 
