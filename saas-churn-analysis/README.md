@@ -105,6 +105,7 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 ### A : Saas Revenue & Growth Dashboard
 
 (i) The business generated a total MRR of ₹249,800 with Enterprise Subscription Plan contributing the highest share of approximately ₹167,000.
+
 <img width="610" height="320" alt="d6e45490-607c-40ff-9279-782ae36b11a5" src="https://github.com/user-attachments/assets/923aa064-2e06-42e4-83e4-adf97e3bd25f" />
 
 This shows higher-tier customers are primary revenue drivers 
