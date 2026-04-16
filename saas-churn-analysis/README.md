@@ -142,8 +142,9 @@ This suggests a recent slowdown in recurring revenue growth.
 This suggests moderate retention but indicates that many customers are not staying long enough for generating a good Lifetime value.
 
 (iii) The 90+ days bucket has highest churn count of 103 customers.
+
 <img width="441" height="310" alt="e8d660ff-0aa7-4308-9659-7c5d0c23713a" src="https://github.com/user-attachments/assets/fcb86a73-ae0a-41ec-a103-325d79efefb3" />
-###
+
 This shows that  most customers who 
 Customers may initially see value but fail to continue usage overtime
 
