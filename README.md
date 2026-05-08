@@ -1,12 +1,11 @@
 # portfolio
 Hi, I'm Anjan
-This repository contains  end-to-end data analytics projects focused on solving business ptoblems, finding insights and building dashboard.
+This repository contains  end-to-end data analytics projects focused on finding key insights and building dashboards.
 
 ## Skills & Tools
 - MySQL
 - Excel
 - Tableau
-- Pandas
 - EDA
 - Data Cleaning
 - Business Insights
