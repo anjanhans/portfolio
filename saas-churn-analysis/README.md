@@ -56,7 +56,7 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### A. Revenue & Growth Dashboard
 
-<img width="1238" height="795" alt="85597c58-9771-4b3c-9162-7412f265e382" src="https://github.com/user-attachments/assets/b24b7101-99bb-4080-b5f6-efa248fd6bb1" />
+<img width="1240" height="788" alt="3b7ca865-8605-4168-baed-51d3b8dbef5f" src="https://github.com/user-attachments/assets/063af5b8-7fc5-44ec-a652-c56b44d5b453" />
 
 
 ###  Key KPI’s
@@ -71,18 +71,20 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### B. Customer Churn Dashboard
 
-<img width="1234" height="794" alt="e4cf5547-e67c-46b4-a41c-b7ee1dfdf399" src="https://github.com/user-attachments/assets/313be113-3a6d-4391-a04e-49c19c15863f" />
+<img width="1239" height="792" alt="f64b7e10-df31-492e-b57f-24ad27d7c6da" src="https://github.com/user-attachments/assets/34f4e04c-4f87-4b9c-a77d-4029b3ddf8ff" />
 
 
 ###  Key KPI’s
 
-⁃	MRR Lost to Churn :- ₹42,000
-
-⁃	Retention Rate :- 83.2 %
-
-⁃	Churn Rate :- 16.8 %
-
-⁃	Avg Customer Tenure :- 5 months
+- MRR Lost to Churn :- 42000
+  
+- Total Churned Customers :- 168
+  
+- Avg Customer Tenure :- 5 months
+  
+- Retention Rate :- 83.2 %
+  
+- Churn Rate :- 16.8 %
 
 ###  Key Findings
 
@@ -116,9 +118,9 @@ This shows higher-tier customers are primary revenue drivers
 
 Customers acquisition seems to be consistent
 
-(iii) Quarterly MRR shows strong growth from 2024 to early 2025.
+(iii) MRR shows strong growth from 2024 to early 2025.
 
-<img width="1233" height="317" alt="da66c8f0-c926-443d-a22d-9f69c8048076" src="https://github.com/user-attachments/assets/a822e7cb-b926-4a78-b06c-d4bdcf3e9ac5" />
+<img width="1227" height="314" alt="8205178c-6933-4804-9d84-5b2940031615" src="https://github.com/user-attachments/assets/4f5eea15-3ca5-484d-a8c2-b94a25cc9f21" />
 
 After that  a decline in Q2-2025.
 
@@ -152,7 +154,7 @@ Customers may initially see value but fail to continue usage overtime
 (iii) Across all plans, revenue has been recovered before customer churn.
  That is customers tenure is long enough to recover their acquisition cost.
  
-<img width="1234" height="353" alt="20ba102f-de3a-449e-bd51-e1a3c78140d3" src="https://github.com/user-attachments/assets/8ca1fdbe-63ad-43cb-bbac-6d12197b4a13" />
+<img width="823" height="349" alt="bb998b15-7c67-4f94-a124-bf47abb4dbef" src="https://github.com/user-attachments/assets/b0af7de5-0a41-48c5-bf44-51832ead8649" />
 
 
 ## 5. Recommendations
