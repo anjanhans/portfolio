@@ -70,9 +70,7 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### B. Customer Churn Dashboard
 
-<img width="1240" height="797" alt="6237c3c1-e750-4fed-87c5-cf09dfef3fbf" src="https://github.com/user-attachments/assets/5993100b-c131-4422-94ad-fcc814522b3b" />
-
-
+<img width="1234" height="791" alt="e0f5feff-07e6-4410-ad2a-04a6d9f45e06" src="https://github.com/user-attachments/assets/44da1217-9ced-4b13-a14a-86de7f1035eb" />
 
 ###  Key KPI’s
 
@@ -154,8 +152,7 @@ Customers may initially see value but fail to continue usage overtime
 (iii) Across all plans, revenue has been recovered before customer churn.
  That is customers tenure is long enough to recover their acquisition cost.
  
-<img width="823" height="349" alt="bb998b15-7c67-4f94-a124-bf47abb4dbef" src="https://github.com/user-attachments/assets/b0af7de5-0a41-48c5-bf44-51832ead8649" />
-
+<img width="825" height="352" alt="9e39e4ab-76de-4d5e-ac13-fe88484c3dbf" src="https://github.com/user-attachments/assets/7b30aadc-831c-4126-b3b3-ac8455ec8d64" />
 
 ## 5. Recommendations
 
