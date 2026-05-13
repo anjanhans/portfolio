@@ -175,9 +175,9 @@ This suggest that the issues may be more closely related to long-term usage rath
 
 The revenue dashboard shows decline in MRR:
 
-⁃	Analyse which plan caused the most drop
+⁃	Analyse which plan has the most drop
 
-⁃	We saw the quarterly churn increased during this timeframe, this could be the reason
+⁃	We saw the quarterly churn increased during this timeframe, this could be the reason         leading to MRR drop
 
 
 ### Lower contribution of Basic and Pro plans
