@@ -56,8 +56,7 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### A. Revenue & Growth Dashboard
 
-<img width="1240" height="788" alt="3b7ca865-8605-4168-baed-51d3b8dbef5f" src="https://github.com/user-attachments/assets/063af5b8-7fc5-44ec-a652-c56b44d5b453" />
-
+<img width="1241" height="790" alt="3527daa8-b6cd-456c-b63e-aa413041e579" src="https://github.com/user-attachments/assets/b5589997-6701-4034-aa95-9dff83e408df" />
 
 ###  Key KPI’s
 
@@ -71,7 +70,8 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### B. Customer Churn Dashboard
 
-<img width="1239" height="792" alt="f64b7e10-df31-492e-b57f-24ad27d7c6da" src="https://github.com/user-attachments/assets/34f4e04c-4f87-4b9c-a77d-4029b3ddf8ff" />
+<img width="1240" height="797" alt="6237c3c1-e750-4fed-87c5-cf09dfef3fbf" src="https://github.com/user-attachments/assets/5993100b-c131-4422-94ad-fcc814522b3b" />
+
 
 
 ###  Key KPI’s
@@ -114,7 +114,7 @@ This shows higher-tier customers are primary revenue drivers
 
 (ii) The customer base grown to 1000 customers, with quarterly signups trend remaining stable.
 
-<img width="613" height="320" alt="e44aadd2-1c3b-4ad8-86cf-c614c01966a5" src="https://github.com/user-attachments/assets/f40d1aa8-c54d-4b89-b29f-8bce4309e06e" />
+<img width="632" height="326" alt="ade9abf4-3ef1-4a43-833e-0bdb899907c9" src="https://github.com/user-attachments/assets/2b605dec-a599-4906-b868-ee93a52a0d7a" />
 
 Customers acquisition seems to be consistent
 
@@ -180,7 +180,7 @@ The revenue dashboard shows decline in MRR:
 
 ⁃	Analyse which plan caused the most drop
 
-⁃	Check whether churn increased during this quarter 
+⁃	We saw the quarterly churn increased during this timeframe, this could be the reason
 
 
 ### Lower contribution of Basic and Pro plans
