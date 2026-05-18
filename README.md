@@ -8,6 +8,7 @@ This repository contains  end-to-end data analytics projects focused on finding 
 - Tableau
 - EDA
 - Data Cleaning
+- Data Visualization
 - Business Insights
 
 ## Projects
