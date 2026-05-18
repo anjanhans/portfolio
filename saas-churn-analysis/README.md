@@ -4,7 +4,7 @@
 
 This project analyses the performance of a SaaS business using customer, revenue and subscription data.
 
-The objective is to understand how business is performing in terms :-
+The objective is to understand how business is performing in terms of:-
 
 ⁃	how revenue is growing over time
 
