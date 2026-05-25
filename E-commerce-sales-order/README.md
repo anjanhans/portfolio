@@ -11,7 +11,7 @@ The primary goal is to identify:
 - Trends in quarterly sales
 - Operational issues such as return and cancellation rates
 
-The dataset was initially messy and required cleanin. 
+The dataset was initially messy and required cleaning. 
 Data preparation was performed in “Excel”  and the final dashboard was built using “Tableau”
 
 
