@@ -71,7 +71,7 @@ This analysis highlights the overall business performance
 - Order cancellations is moderate but needs attention
 
 - Here, major issue is very high return rates (27%) and cancellation rates (15%).
-  That is 42 % of the total orders are not successfully completed or delivered.
+  That is 42 % of the total orders are not successfully completed.
   And only 11 % of the orders are delivered, which is very low .
 
 
@@ -119,8 +119,8 @@ This indicates :-
  
 Here the most notable and concerning things were
 
-- Returned -> ** 27 % **
-- Cancelled -> * 15 % **
+- Returned ->  27 % 
+- Cancelled ->  15 % 
 
 High return rates can negatively impact:
 
