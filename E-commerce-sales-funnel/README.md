@@ -103,7 +103,7 @@ The strongest engagement is in the beginning of the funnel.
 However, conversion decreased substantially after checkout, with one-third of checkout users completed their purchase. Indicating final purchase have the primary conversion issue.
 
 
-##(B) Conversions and Revenue by Devices and Channels
+## (B) Conversions and Revenue by Devices and Channels
 
 ### Conversion Rate by Channel
 
@@ -210,7 +210,7 @@ Used to build an interactive dashboard for visualising funnel performance, conve
 
 Used for project documentation and portfolio presentation.
 
-### 7. Data Source
+## 7. Data Source
 
 The dataset used in this project is a synthetic e-commerce dataset containing user activity across different events of purchasing journey.
 
