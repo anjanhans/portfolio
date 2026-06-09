@@ -155,7 +155,7 @@ No major upward or downward trend was observed during this time period.
 
 Customer demand is consistent , this is leading to a stable revenue generation throughout the months.
 
-### 5 . Recommendations
+## 5 . Recommendations
 
 ### (A) Improve Checkout Completion
 
