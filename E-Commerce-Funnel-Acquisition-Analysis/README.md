@@ -1,4 +1,4 @@
-# Customer Funnel Performance Analysis
+# E-COMMERCE FUNNEL CONVERSION AND ACQUISITION ANALYSIS
 
 ## 1.Background & Overview
 
