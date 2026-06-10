@@ -123,7 +123,7 @@ Although the conversion rate and revenue of  all channels are close.
 
 
 
-Desktop and Tablet tops the Conversion Rate with ~ 10%, even though Mobile has nearly the same Conversion Rate ~9.47%.
+Desktop and Tablet tops the Conversion Rate with ~ 10%, even though Mobile has nearly the same Conversion Rate ~ 9.47%.
 
 <img width="279" height="216" alt="revenue" src="https://github.com/user-attachments/assets/cd58cb28-d3f2-410f-87f9-a7ecb429f97d" />
 
