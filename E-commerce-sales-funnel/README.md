@@ -6,7 +6,7 @@ The analysis focuses on user behaviour across different funnel stages:
 
 Browse - Add to cart - Checkout - Purchase
 
-The analysis focuses on identifying conversion blockages, evaluating customers conversion rate  across channels and understanding factors that supports revenue generation.
+And identifying conversion blockages, evaluating customers conversion rate  across channels and understanding the factors which supports revenue generation.
 
 ### Key Business Questions 
 
@@ -65,6 +65,7 @@ The variable in column “bonus_flag” was directly linked to funnel stages (ev
 
 ## 4. Executive Summary
 
+<img width="1264" height="796" alt="E-COMMERCE SALES   CONVERSION ANALYSIS" src="https://github.com/user-attachments/assets/b75f43bf-5871-4413-b72b-0371675bea4a" />
 Here analysis of 10,000 users revealed an overall conversion rate of 10.04% from Browse to Purchase.
 
 The strongest customers conversion was observed at the beginning of the funnel, with nearly 69.49% of users adding product to their cart after browsing. 
@@ -81,9 +82,6 @@ However, significant numbers of customers dropped-offs occurred during the next 
 	•	Revenue remained relatively stable throughout the time period.
 
 ## 5. Insights Deep Dive
-
-<img width="1264" height="796" alt="E-COMMERCE SALES   CONVERSION ANALYSIS" src="https://github.com/user-attachments/assets/b75f43bf-5871-4413-b72b-0371675bea4a" />
-
 
 ## (A) Funnel Performace
 
@@ -162,7 +160,7 @@ Customer demand is consistent , this is leading to a stable revenue generation t
 The largest drop-off occurs between Checkout and Purchase. 
 Reviewing the customers checkout experience and investigating the issues they face may help improving purchase rates.
 
-### (B) Continue Optimizing Traffic Channels
+### (B) Continue Optimizing and Analyze Channels for Customers Conversion
 
 Google Ads achieved highest conversion rate among all channels. 
 Here the gap between channels is not large, analysing what and why Google Ads have stronger performance can help making a strategy
