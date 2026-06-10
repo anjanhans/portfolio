@@ -8,7 +8,7 @@ Browse - Add to cart - Checkout - Purchase
 
 The analysis focuses on identifying conversion blockages, evaluating customers conversion rate  across channels and understanding factors that supports revenue generation.
 
-Key Business Questions 
+### Key Business Questions 
 
 1.	Where are users dropping off in the funnel?
 2.	How effectively do users move through the conversion funnel?
