@@ -1,3 +1,5 @@
+# Customer Funnel Performance Analysis
+
 ## 1.Background & Overview
 
 This project analyses customer behaviour across an e-commerce funnel to understand how users progress from browsing products to completing a purchase,
