@@ -47,7 +47,8 @@ Final cleaned dataset size : ** 100 orders **
 
 This analysis highlights the overall business performance
 
-<img width="1232" height="790" alt="49e6ab4e-c7d5-4349-924e-8c8e349d9442" src="https://github.com/user-attachments/assets/a205bbdb-edd0-4715-9f9b-74f44ecc1100" />
+<img width="1273" height="803" alt="9058f5aa-bd04-47bc-a541-70b18e5db50d" src="https://github.com/user-attachments/assets/6a53ab10-a985-4165-acf0-7d0950061c3e" />
+
 
 ### Key KPI's
 
@@ -94,14 +95,11 @@ These two segments has strong customer demand
 
 Quarterly sales trends indicate :
 
+<img width="1273" height="803" alt="9058f5aa-bd04-47bc-a541-70b18e5db50d" src="https://github.com/user-attachments/assets/635270bf-0e8b-4670-9bc8-6cf23819c0bb" />
 
-<img width="738" height="282" alt="869931bd-3aa6-47fd-85c1-a1cad1e3cde3" src="https://github.com/user-attachments/assets/de515b9a-81d7-402e-9490-fd3b25ad7546" />
+- Q1 of 2025(mainly February) has the highest sales of ₹ 39,691
 
-
-
-- Q1 of 2025 has the highest sales of ₹ 39,691
-
-- Revenue dropped significantly in the following quarter
+- Revenue dropped significantly in the following quarters(After February).
 
 - Q4 of 2025 shows a notable decline to ₹ 1,383
 
@@ -113,10 +111,8 @@ This indicates :-
 
 ### Order Status Analysis
 
+<img width="426" height="293" alt="1700998d-47d1-44e5-beac-4116f3c3548b" src="https://github.com/user-attachments/assets/d5b1c28f-f109-422c-994d-4da505ce6adb" />
 
-<img width="368" height="267" alt="e512feef-9d9f-4c23-ae68-bdc4d3377cee" src="https://github.com/user-attachments/assets/e51c12c3-7d8e-438b-afe3-9562e379c973" />
-
- 
 Here the most notable and concerning things were
 
 - Returned ->  27 % 
