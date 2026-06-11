@@ -52,11 +52,11 @@ This analysis highlights the overall business performance
 
 ### Key KPI's
 
--  Total Revenue :- ₹ 158,000
--  Total Orders :- 100
--  Average Order Value :- ₹ 1,580
--  Return Rate :- 27 %
--  Cancel Rate :- 15 %
+-  Total Revenue : ₹ 158,000
+-  Total Orders : 100
+-  Average Order Value : ₹ 1,580
+-  Return Rate : 27 %
+-  Cancel Rate : 15 %
 
 
 ### Key Findings 
@@ -86,16 +86,17 @@ This analysis highlights the overall business performance
 
 Electronics is the highest revenue-generating category, contributing approximately ~ ₹ 40,000 in total sales
 
-Books followed with approximately 	~ ₹ 38,000
+Books followed with approximately ~ ₹ 38,000
 
 These two segments has strong customer demand 
 
 
-### Sales Trend Analysis
+### Revenue Over Time
 
-Quarterly sales trends indicate :
+Sales trends indicate :
 
-<img width="1273" height="803" alt="9058f5aa-bd04-47bc-a541-70b18e5db50d" src="https://github.com/user-attachments/assets/635270bf-0e8b-4670-9bc8-6cf23819c0bb" />
+<img width="672" height="294" alt="366c7589-9fed-41fd-a840-465ef61b0fa6" src="https://github.com/user-attachments/assets/120d5a21-a330-465e-98e5-ca320c539dcd" />
+
 
 - Q1 of 2025(mainly February) has the highest sales of ₹ 39,691
 
@@ -115,8 +116,8 @@ This indicates :-
 
 Here the most notable and concerning things were
 
-- Returned ->  27 % 
-- Cancelled ->  15 % 
+- Returned: 27 % 
+- Cancelled: 15 % 
 
 High return rates can negatively impact:
 
