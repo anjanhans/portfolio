@@ -38,9 +38,9 @@ The raw dataset contained inconsistencies and is cleaned using Excel . For  clea
 - Price columns mistyped values
 - Date format standardization
 
-Raw dataset : ** 103 orders **
+Raw dataset :- 103 orders 
 
-Final cleaned dataset size : ** 100 orders **
+Final cleaned dataset size :- 100 orders 
 
 
 ## 3. Executive Summary
