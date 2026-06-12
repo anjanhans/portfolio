@@ -56,7 +56,7 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### A. Revenue & Growth Dashboard
 
-<img width="1241" height="790" alt="3527daa8-b6cd-456c-b63e-aa413041e579" src="https://github.com/user-attachments/assets/b5589997-6701-4034-aa95-9dff83e408df" />
+<img width="1244" height="808" alt="a5d902eb-4415-4de5-b13c-1b4e428ab412" src="https://github.com/user-attachments/assets/fcad8873-a0e7-41ef-9df8-600b23543143" />
 
 ###  Key KPI’s
 
@@ -70,7 +70,8 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ### B. Customer Churn Dashboard
 
-<img width="1234" height="791" alt="e0f5feff-07e6-4410-ad2a-04a6d9f45e06" src="https://github.com/user-attachments/assets/44da1217-9ced-4b13-a14a-86de7f1035eb" />
+<img width="1241" height="797" alt="cc64ebc2-d973-4085-a4fd-4bda154a199e" src="https://github.com/user-attachments/assets/af2e9303-a768-48c1-8967-b7c9735249e0" />
+
 
 ###  Key KPI’s
 
@@ -106,19 +107,21 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 (i) The business generated a total MRR of ₹249,800 with Enterprise Subscription Plan contributing the highest share of approximately ₹167,000.
 
-<img width="610" height="320" alt="d6e45490-607c-40ff-9279-782ae36b11a5" src="https://github.com/user-attachments/assets/923aa064-2e06-42e4-83e4-adf97e3bd25f" />
+<img width="593" height="320" alt="7e33045a-b6ca-4b3e-8139-155b0e546d1e" src="https://github.com/user-attachments/assets/bfc567ce-ee60-4b3e-9570-72a4e3a5ccf3" />
+
 
 This shows higher-tier customers are primary revenue drivers 
 
 (ii) The customer base grown to 1000 customers, with quarterly signups trend remaining stable.
 
-<img width="632" height="326" alt="ade9abf4-3ef1-4a43-833e-0bdb899907c9" src="https://github.com/user-attachments/assets/2b605dec-a599-4906-b868-ee93a52a0d7a" />
+<img width="646" height="330" alt="60cc7c9c-5f1c-4f43-b769-ff46fbcc2ac1" src="https://github.com/user-attachments/assets/f0f563ad-e4a7-4727-81da-707a8217289d" />
+
 
 Customers acquisition seems to be consistent
 
 (iii) MRR shows strong growth from 2024 to early 2025.
 
-<img width="1227" height="314" alt="8205178c-6933-4804-9d84-5b2940031615" src="https://github.com/user-attachments/assets/4f5eea15-3ca5-484d-a8c2-b94a25cc9f21" />
+<img width="1230" height="323" alt="b0425fa8-f77b-4813-938a-a2a822d64616" src="https://github.com/user-attachments/assets/bdd0f8f2-4b72-4b39-8387-a98823dea06d" />
 
 After that  a decline in Q2-2025.
 
@@ -143,7 +146,8 @@ This suggests moderate retention but indicates that many customers are not stayi
 
 (iii) The 90+ days bucket has highest churn count of 103 customers.
 
-<img width="441" height="310" alt="e8d660ff-0aa7-4308-9659-7c5d0c23713a" src="https://github.com/user-attachments/assets/fcb86a73-ae0a-41ec-a103-325d79efefb3" />
+<img width="583" height="302" alt="471400f2-ee7a-4cb8-9480-e5ca4b272fd6" src="https://github.com/user-attachments/assets/15f902f1-1951-4183-be1b-6159ebf7fb46" />
+
 
 This shows that  most customers who 
 Customers may initially see value but fail to continue usage overtime
@@ -152,7 +156,8 @@ Customers may initially see value but fail to continue usage overtime
 (iii) Across all plans, revenue has been recovered before customer churn.
  That is customers tenure is long enough to recover their acquisition cost.
  
-<img width="825" height="352" alt="9e39e4ab-76de-4d5e-ac13-fe88484c3dbf" src="https://github.com/user-attachments/assets/7b30aadc-831c-4126-b3b3-ac8455ec8d64" />
+<img width="827" height="354" alt="b6dae730-6922-418e-828f-e2cd657af7ef" src="https://github.com/user-attachments/assets/623a47c9-84ba-4a6c-9d6a-d3ba6deaf785" />
+
 
 ## 5. Recommendations
 
