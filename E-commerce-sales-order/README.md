@@ -2,7 +2,7 @@
 
 ## 1. Background  and Overview
 
-This Project analyses e-commerce sales and order performance data to show trends in revenue, product, category, customer order behaviour, their returns and cancellations.
+This Project analyses e-commerce sales and order performance data to show trends in revenue, product, category, customer order behaviour,returns and cancellations.
 
 The primary goal is to identify:
 
