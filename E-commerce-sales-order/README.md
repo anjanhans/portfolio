@@ -12,7 +12,7 @@ The primary goal is to identify:
 - Operational issues such as return and cancellation rates
 
 The dataset was initially messy and required cleaning. 
-Data preparation was performed in “Excel”  and the final dashboard was built using “Tableau”
+Data preparation and cleaning was done in “Excel” and final dashboard was built using “Tableau”
 
 
 ## 2. Data Structure and Overview
