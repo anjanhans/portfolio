@@ -16,6 +16,6 @@ This repository contains  end-to-end data analytics projects focused on finding 
 
 ## Projects
 
-### 1. SaaS REVENUE GROWTH & CUSTOMER CHURN ANALYSIS
+### 1. Saas CUSTOMER CHURN & REVENUE KPI ANALYSIS
 ### 2. E-COMMERCE SALES & ORDER DASHBOARD
 ### 3. E-COMMERCE FUNNEL CONVERSION AND ACQUISITION ANALYSIS
