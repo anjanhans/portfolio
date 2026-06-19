@@ -67,7 +67,7 @@ This analysis highlights the overall business performance
 
 - In year 2025, Q1 showed the peak revenue performance
 
-- Return rated are significantly high and needs to be looked on
+- Return rates are significantly high and needs to be looked on
 
 - Order cancellations is moderate but needs attention
 
