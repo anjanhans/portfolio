@@ -7,11 +7,15 @@ This repository contains  end-to-end data analytics projects focused on finding 
 - Excel
 - Tableau
 - EDA
+- Python Pandas
+- Matplotlib
+- Seaborn
 - Data Cleaning
 - Data Visualization
 - Business Insights
 
 ## Projects
 
-### 1. SaaS Revenue Growth & Customer Churn Analysis
-### 2. E-commerce Sales & Order Dashboard
+### 1. SaaS REVENUE GROWTH & CUSTOMER CHURN ANALYSIS
+### 2. E-COMMERCE SALES & ORDER DASHBOARD
+### 3. E-COMMERCE FUNNEL CONVERSION AND ACQUISITION ANALYSIS
