@@ -149,8 +149,7 @@ This suggests moderate retention but indicates that many customers are not stayi
 <img width="583" height="302" alt="471400f2-ee7a-4cb8-9480-e5ca4b272fd6" src="https://github.com/user-attachments/assets/15f902f1-1951-4183-be1b-6159ebf7fb46" />
 
 
-This shows that  most customers who 
-Customers may initially see value but fail to continue usage overtime
+This shows that  most customers that churn may initially see value but fail to continue usage overtime
 
 
 (iii) Across all plans, revenue has been recovered before customer churn.
