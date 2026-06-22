@@ -79,8 +79,8 @@ However, significant numbers of customers dropped-offs occurred during the next 
 	•	Overall conversion rate is 10.04%.
 	•	Largest drop-off occurred between Checkout and Purchase.
 	•	Google Ads achieved the highest conversion rate among acquisition channels.
-	•	Desktop and Tablets generated the highest revenue $98471.83 and $94620.13 respectively.Mobile devices has a slightly low revenue ($84231.10) than the other two devices.’
-	•	Electronics’ is the highest revenue generating product ~ $62,938, followed by ‘Fashion’ products which has ~  $58,075.The lowest was ‘Home’ products which has ~ $50,100. However except Electronics which has the highest revenue, the remaining products generated revenue in similar ranges where the differences between the revenues is quite close.
+	•	Desktop and Tablets generated the highest revenue $98471.83 and $94620.13 respectively.Mobile devices has a slightly low revenue ($84231.10) than the other two devices.
+	•	'Electronics’ is the highest revenue generating product ~ $62,938, followed by ‘Fashion’ products which has ~  $58,075.The lowest was ‘Home’ products which has ~ $50,100. However except Electronics which has the highest revenue, the remaining products generated revenue in similar ranges where the differences between the revenues is quite close.
 	•	Revenue remained relatively stable throughout the time period.
 
 ## 5. Insights Deep Dive
@@ -181,7 +181,7 @@ Demand patterns within these categories may help planning of future marketing an
 ### (E) Analyse Customer Behaviour Around Revenue Spikes
 
 Revenue remained stable throughout, with visible peaks during late December and early January.
-Examining which  channels, devices and products  category contributed most during the revenue peaks in late December and early January.
+Examine which  channels,devices and products categories contributed most during the revenue peaks in late December and early January.
 
 ## 6. Tools Used
 
