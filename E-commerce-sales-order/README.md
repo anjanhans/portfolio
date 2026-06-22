@@ -174,7 +174,7 @@ Based on the analysis, the recommendations are :
 
 ### Improve Low-Performing Categories
 
-- Review low-revenue category producsts to understand whether the issue is low demand, price, or quality issues.
+- Review low-revenue category products to understand whether the issue is low demand,price or quality issues.
 - Asses the visibility of these products to potential customers.
 
 
