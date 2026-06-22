@@ -60,7 +60,7 @@ The analysis shows customer acquisition and revenue growth, alongside retention 
 
 ###  Key KPI’s
 
-⁃	Total MRR :- ₹2,49,000
+⁃	Total Reccuring Revenue :- ₹2,49,000
 
 ⁃	Total Customers :- 1000
 
