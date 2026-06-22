@@ -68,7 +68,7 @@ The variable in column “bonus_flag” was directly linked to funnel stages (ev
 ## 4. Executive Summary
 
 <img width="1264" height="796" alt="E-COMMERCE SALES   CONVERSION ANALYSIS" src="https://github.com/user-attachments/assets/b75f43bf-5871-4413-b72b-0371675bea4a" />
-Here analysis of 10,000 users revealed an overall conversion rate of 10.04% from Browse to Purchase.
+Here analysis of 10,000 unique users revealed an overall conversion rate of 10.04% from Browse to Purchase.
 
 The strongest customers conversion was observed at the beginning of the funnel, with nearly 69.49% of users adding product to their cart after browsing. 
 
