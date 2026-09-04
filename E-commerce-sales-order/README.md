@@ -2,13 +2,13 @@
 
 ## 1. Background  and Overview
 
-This Project analyses e-commerce sales and order performance data to show trends in revenue, product, category, customer order behaviour,returns and cancellations.
+This Project analyses e-commerce business's sales,order performance data to show trends in revenue, product, category, customer order behaviour,returns and cancellations.
 
 The primary goal is to identify:
 
-- Which category drive most revenue
-- How order status impact  business performance
-- Trends in quarterly sales
+- When are sales occurring
+- What product are driving sales
+- Which customers contributes to most revenue
 - Operational issues such as return and cancellation rates
 
 The dataset was initially messy and required cleaning. 
@@ -38,9 +38,12 @@ The raw dataset contained inconsistencies and is cleaned using Excel . For  clea
 - Price columns mistyped values
 - Date format standardization
 
-Raw dataset :- 103 orders 
 
-Final cleaned dataset size :- 100 orders 
+IN TABLEAU - Additional measures were prepared to support the assessment such as Cancelled order count,Returned order count,Cancellation rate,Successful delivery rate,Average Order Value(AOV).
+
+Raw dataset :- 103 Rows (Orders) & 11 Columns
+
+Final cleaned dataset size :- 89 Rows (Orders) & 11 Columns
 
 
 ## 3. Executive Summary
@@ -49,31 +52,10 @@ This analysis highlights the overall business performance
 
 <img width="1273" height="803" alt="9058f5aa-bd04-47bc-a541-70b18e5db50d" src="https://github.com/user-attachments/assets/6a53ab10-a985-4165-acf0-7d0950061c3e" />
 
-
-### Key KPI's
-
--  Total Revenue : ₹ 158,000
--  Total Orders : 100
--  Average Order Value : ₹ 1,580
--  Return Rate : 27 %
--  Cancel Rate : 15 %
-
-
-### Key Findings 
-
-- Electronics Category generated the highest revenue contribution 
-
-- Books Category is the second best performing 
-
-- In year 2025, Q1 showed the peak revenue performance
-
-- Return rates are significantly high and needs to be looked on
-
-- Order cancellations is moderate but needs attention
-
-- Here, major issue is very high return rates (27%) and cancellation rates (15%).
-  That is 42 % of the total orders are not successfully completed.
-  And only 11 % of the orders are delivered, which is very low .
+The business generated $158,006 across 89 orders, with an Average Order Value of $1,775.
+Categorically Electronics generated the highest revenue ($40,140),followed by Books which generated ($38,357).
+Together these two categories account for roughly half of the total revenue.
+This shows that overall sales performance strongly influenced by a small number of categories.
 
 
 
