@@ -57,23 +57,28 @@ Categorically Electronics generated the highest revenue ($40,140),followed by Bo
 Together these two categories account for roughly half of the total revenue.
 This shows that overall sales performance strongly influenced by a small number of categories.
 
+Product-level performance shows a difference between sales volume and revenue contribution.
+For example: Yoga Mat has the highest quantity sold (14 units) among all products and generated $5,695 while Smartphone generated $5,104 from only 8 units.
+This indicates that the product demand and revenue contribution are not necessarily correlated.
 
+Payment preferences shows a particularly strong contribution from Cash-On-Delivery(COD).COD has 30 out of 89 orders and generated $64,758 that is approximately 41% of total revenue.
+This shows COD is not only the most frequently used payment method but also the largest revenue contributor.
+
+The most significant operational issue is with the Returns and Cancellations.25 orders were returned and 14 were cancelled, which is 28.1% and 15.7% of all orders respectively.
+Together these represents 43.8% of the orders status.Returns were particularly focused in the Books category with 10 recorded returns while Electronics recorded the highest cancellation counts among the categories.
 
 ## 4 . Insights Deep Dive
 
-### Revenue by Category
+### Monthly Revenue Trend
 
 ￼<img width="406" height="376" alt="82d305ae-0613-4623-88d0-b3355113c6cb" src="https://github.com/user-attachments/assets/4c7a8e60-b971-4ba4-8d47-cfd2fb84d45c" />
 
-
-Electronics is the highest revenue-generating category, contributing approximately ~ ₹ 40,000 in total sales
-
-Books followed with approximately ~ ₹ 38,000
-
-These two segments has strong customer demand 
+Revenue activity is concentrated in 2025,while earlier years have limited data.
+As 2025 contains transactions across January to November compared with only January 2023 and November to December 2024,the monthly revenue patten in 2025 provides the most useful view of within-period sales fluctuations.
+The missing months should be treated as unavailable observation rather than assumed zero-revenue periods.
 
 
-### Revenue Over Time
+### Monthly Order Trend
 
 Sales trends indicate :
 
