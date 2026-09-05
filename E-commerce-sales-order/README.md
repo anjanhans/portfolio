@@ -24,7 +24,7 @@ The data has a total of 103 rows and 11 columns.
 Each row represents a single order transaction placed by a customer, including the product,category,quantity,order status,payment method,order value.
 
 
-- COLUMNS AND THEIR DESCRIPTION 
+- RAW DATA COLUMNS AND THEIR DESCRIPTION 
 <img width="395" height="727" alt="5aaa95c4-fad9-4a4e-beee-9301513e74a2" src="https://github.com/user-attachments/assets/7b0a4195-2ed2-48cd-8f6b-3132285330c7" />
 
 ### Data Preparation  
