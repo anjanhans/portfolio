@@ -7,7 +7,7 @@ This Project analyses e-commerce business's sales,order performance data to show
 The primary goal is to identify:
 
 - When are sales occurring
-- What product are driving sales
+- What products are driving sales
 - Which customers contributes to most revenue
 - Operational issues such as return and cancellation rates
 
@@ -29,17 +29,17 @@ Each row represents a single order transaction placed by a customer, including t
 
 ### Data Preparation  
 
-The raw dataset contained inconsistencies and is cleaned using Excel . For  cleaning the data, following operations were done :
+The raw dataset contained inconsistencies and is cleaned using Excel.For cleaning the data, following operations were done :
 
 - Duplicate removal 
-- Missing and mistyped or unusual data check
+- Missing and Mistyped or Unusual data check
 - Category name correction
 - Quantity field typo
 - Price columns mistyped values
 - Date format standardization
 
 
-IN TABLEAU - Additional measures were prepared to support the assessment such as Cancelled order count,Returned order count,Cancellation rate,Successful delivery rate,Average Order Value(AOV).
+IN TABLEAU - Additional fields were prepared to support the assessment such as Cancelled order count,Returned order count,Cancellation rate,Successful delivery rate,Average Order Value(AOV).
 
 Raw dataset :- 103 Rows (Orders) & 11 Columns
 
@@ -148,10 +148,9 @@ Returns represent 28.1% of orders in the dataset with Books having 10 recorded r
 
 Electronics recorded the highest cancellation count of 4.Since cancellation and return patterns differs by category, cancellation should be investigated independently rather than treating all unsuccessful orders as a single issue.
 
-### Evaluate Payments Method us
+### Review payment-method performance and prioritise improvement areas
 
-
-
+COD represents the largest share of orders and revenue, also it has the most number of returns and cancellations.The bye usiness should review payment-method performance,particularly for COD to identify where order outcomes can be improved and prioritise operational actions based on payments methods with high returns and cancellations. 
 
 # Data Source 
 
