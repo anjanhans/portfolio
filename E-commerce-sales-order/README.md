@@ -59,7 +59,7 @@ This shows that overall sales performance strongly influenced by a small number 
 
 Product-level performance shows a difference between sales volume and revenue contribution.
 For example: Yoga Mat has the highest quantity sold (14 units) among all products and generated $5,695 while Smartphone generated $5,104 from only 8 units.
-This indicates that the product demand and revenue contribution are not necessarily correlated.
+This indicates that the product demand and revenue contribution are not necessarily proportional.
 
 Payment preferences shows a particularly strong contribution from Cash-On-Delivery(COD).COD has 30 out of 89 orders and generated $64,758 that is approximately 41% of total revenue.
 This shows COD is not only the most frequently used payment method but also the largest revenue contributor.
@@ -75,7 +75,7 @@ Together these represents 43.8% of the orders status.Returns were particularly f
 
 Revenue activity is concentrated in 2025,while earlier years have limited data.
 As 2025 contains transactions across January to November compared with only January 2023 and November to December 2024,the monthly revenue patten in 2025 provides the most useful view of within-period sales fluctuations.
-The missing months should be treated as unavailable observation rather than assumed zero-revenue periods.
+The missing months should be treated as unavailable rather than assumed zero-revenue periods.
 
 
 ### Monthly Order Trend
@@ -84,85 +84,73 @@ Sales trends indicate :
 
 <img width="672" height="294" alt="366c7589-9fed-41fd-a840-465ef61b0fa6" src="https://github.com/user-attachments/assets/120d5a21-a330-465e-98e5-ca320c539dcd" />
 
-
-- Q1 of 2025(mainly February) has the highest sales of ₹ 39,691
-
-- Revenue dropped significantly in the following quarters(After February).
-
-- Q4 of 2025 shows a notable decline to ₹ 1,383
-
-This indicates :-
-
-* Seasonality
-* Low customer retention 
+Order activity follows the same pattern as revenue, with transactions recorded omly during selected periods.This limits the ability to establish a continuous order-growth trend across the full 2023-2025 period. This trend shows the fluctuations within the months.
 
 
-### Order Status Analysis
+### Revenue & Quantity Sold by Categories
 
 <img width="426" height="293" alt="1700998d-47d1-44e5-beac-4116f3c3548b" src="https://github.com/user-attachments/assets/d5b1c28f-f109-422c-994d-4da505ce6adb" />
 
-Here the most notable and concerning things were
+Revenue is concentrated in two categories.Electronics and Books generated $78,497 combined, representing approximately 49.7% of total revenue.This means that performance in these two categories has a significant influence on overall revenue results.
 
-- Returned: 27 % 
-- Cancelled: 15 % 
-
-High return rates can negatively impact:
-
-- Profitability
-- Logistics cost
-
-The relatively high Return Rate and Cancellation Rate may indicate the issues customers could have faced such as delivery delays, wrong product, issue with oroduct quality.
-
-It may suggest some amount of customer dissatisfaction after purchasing.
+Therefore these categories should be monitored closely when analysing sales performance and volumes.
 
 
-### Payment Method vs Status
-
-Show count of orders according to their respective status and their payment method
+### Revenue & Quantity Sold by Products
 
 ￼<img width="696" height="373" alt="e1dab708-f48b-48ed-a336-aaa1ae34ee20" src="https://github.com/user-attachments/assets/7bf315aa-783b-49a4-9823-a14aa282c18e" />
 
+Product volume is not directly proportional to revenue contribution.Yoga Mat recorded 14 units sold and generated $5,695, while Smartphone generated $5,104 from only 8 units.This indicates that products with lower sales volume can still make similar revenue contribution, making it important to evaluate product performance using both volume and revenue rather than one metric.
 
-- COD has a  significant number of returns and cancellations
+### Customer Revenue Concentration
 
-- Credit card payments has high returns
+The Top 5 customers contributed approximately $41,584,equivalent to approximately 26.3% of total revenue.The highest value customer alone contributed $20,000 easily exceeding the other customers in the ranking.This shows that overall revenue is directly impacted by purchasing activity of high-value customers.
 
-- Some payments types have high processing volume
+## Revenue & Orders by Payment Method
 
+Cash-on-Delivery(COD) accounted for 30 out of 89 orders, making it the most-used payment method but also the revenue contribution is even higher: $64,758 that is approximately 41% of total revenue.This indicates that COD has higher preference and reliability among customers.
+
+## Order Status Distribution
+
+The order-status distribution shows a significant gap between orders placed and successfully delivered.Only 10 out of 89 orders were recorded were recorded as delivered,while 25 were returned,14 cancelled,20 remained in processing and 20 were shipped.The high number of non-delivered outcomes makes order fulfilment a key area for attention.
+
+The data shows the issue but doesn't have sufficient reason on why the orders were returned or cancelled or are in processing.Further investigation using the cancellation reasons, return reason, delivery duration and inventory availability is required to identify the underlying causes.
+
+## Cancellations & Returns by Category
+
+Returns and Cancellation patterns are not concentrated in the same category.Books recorded the highest number of returns at 10, while Electronics recorded the highest cancellation count at 4.This suggests that the categories that has most returns or cancellations are not necessarily the same categories driving cancellations or returns, therefore these should be investigation as separate operational issue.
+
+## Payment Method by Order Status
+
+COD has the highest number of cancellations and returns in the dataset, but it also has the highest order volume.Therefore,the observed counts alone are insufficient to conclude that COD has poor order performance.
+
+Payment method specific Cancellation and Returns Rates should be calculated using the number of orders within each payment method.
 
 
 ## 5. Recommendations
 
 Based on the analysis, the recommendations are :
 
+### Prioritise high-revenue categories
 
-### Reduce Returns and Cancellation
-
-- Review product that have high return rate and their reason
-- Improve product details on the sites
-- Quality Control of Products being sold
+Electronics and Books together account for approximately 49.7% of revenue.Inventory and sales performance should be closely monitored for these categories because performance and demand changes in either category could affect the overall revenue.
 
 
-### Improve Sales Retention
+### Moitor high-value customers
 
-- Investigate the reason of sales drop after Q1 high sales
-- Re-engage customers through offers, discounts and marketing campaigns.
+The top five customers contribute approximately 26.3% of total revenue with highest payments of $20,000.These customers should be grouped as high-value customer segment.
 
-### Optimize Order Processing
+### Investigate the return problem
 
-- Reduce long processing stages of orders
-- Analyse whether long processing is the reason for cancellation
-- Improve processing and delivery speed could reduce cancellation
+Returns represent 28.1% of orders in the dataset with Books having 10 recorded returns.The underlying reasons for returns in Books should be analysed before taking any corrective measures.Return reason, product reviews, customer feedback and order delivery status and duration would help determine whether the issue is product related, operational or customer expectations/experience.
 
-### Focus on Top Categories
+### Investigating Cancellations separately
 
-- Prioritise Electronics and Books
-- Increase marketing and campaigns/promotion for these categories
+Electronics recorded the highest cancellation count of 4.Since cancellation and return patterns differs by category, cancellation should be investigated independently rather than treating all unsuccessful orders as a single issue.
 
-### Improve Low-Performing Categories
+### Evaluate Payments Method us
 
-- Review low-revenue category products to understand whether the issue is low demand,price or quality issues.
-- Asses the visibility of these products to potential customers.
+
 
 
 # Data Source 
