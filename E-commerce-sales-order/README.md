@@ -2,12 +2,12 @@
 
 ## 1. Background  and Overview
 
-This Project analyses e-commerce business's sales,order performance data to show trends in revenue, product, category, customer order behaviour,returns and cancellations.
+This Project analyses an e-commerce business sales performance, product contribution, customer payment behaviour and order completion.
 
-The primary goal is to identify:
+The objective is to:
 
-- When are sales occurring
-- What products are driving sales
+- Where revenue is concentrated
+- Customer Payment Preference
 - Which customers contributes to most revenue
 - Operational issues such as return and cancellation rates
 
@@ -21,7 +21,7 @@ Data preparation and cleaning was done in “Excel” and final dashboard was bu
 
 The data has a total of 103 rows and 11 columns.
 
-Each row represents a single order transaction placed by a customer, including the product, category, quantity, order status, payment method, order value.
+Each row represents a single order transaction placed by a customer, including the product,category,quantity,order status,payment method,order value.
 
 
 - COLUMNS AND THEIR DESCRIPTION 
@@ -29,7 +29,7 @@ Each row represents a single order transaction placed by a customer, including t
 
 ### Data Preparation  
 
-The raw dataset contained inconsistencies and is cleaned using Excel.For cleaning the data, following operations were done :
+The raw dataset contained inconsistencies and is cleaned using Excel.For cleaning the data,following operations were done :
 
 - Duplicate removal 
 - Missing and Mistyped or Unusual data check
