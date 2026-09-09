@@ -135,7 +135,7 @@ The data shows the issue but doesn't have sufficient reason on why the orders we
 <img width="438" height="315" alt="ReturnCancelbyCat" src="https://github.com/user-attachments/assets/6be1894e-df4e-499c-9dc8-21b10eb12283" />
 
 
-Returns and Cancellation patterns are not concentrated in the same category.Books recorded the highest number of returns at 10, while Electronics recorded the highest cancellation count at 4.This suggests that the categories that has most returns or cancellations are not necessarily the same categories driving cancellations or returns, therefore these should be investigation as separate operational issue.
+Returns and Cancellation patterns are not concentrated in the same category.Books recorded the highest number of returns at 10, while Electronics recorded the highest cancellation count at 4.This suggests that the categories that has most returns or cancellations are not necessarily the same categories driving cancellations or returns respectively, therefore these should be investigation as separate operational issue.
 
 ### Payment Method by Order Status
 
@@ -156,7 +156,7 @@ Based on the analysis, the recommendations are :
 Electronics and Books together account for approximately 49.7% of revenue.Inventory and sales performance should be closely monitored for these categories because performance and demand changes in either category could affect the overall revenue.
 
 
-### Moitor high-value customers
+### Monitor high-value customers
 
 The top five customers contribute approximately 26.3% of total revenue with highest payments of $20,000.These customers should be grouped as high-value customer segment.
 
