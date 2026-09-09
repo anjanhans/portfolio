@@ -170,7 +170,7 @@ Electronics recorded the highest cancellation count of 4.Since cancellation and 
 
 ### Review payment-method performance and prioritise improvement areas
 
-COD represents the largest share of orders and revenue, also it has the most number of returns and cancellations.The bye usiness should review payment-method performance,particularly for COD to identify where order outcomes can be improved and prioritise operational actions based on payments methods with high returns and cancellations. 
+COD represents the largest share of orders and revenue, also it has the most number of returns and cancellations.The performance of each payment methods should be reviewed,particularly for COD to identify where order outcomes can be improved and prioritise operational actions based on payments methods with high returns and cancellations. 
 
 # Data Source 
 
