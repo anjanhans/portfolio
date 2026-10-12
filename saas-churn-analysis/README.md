@@ -1,204 +1,92 @@
-# Saas Customer Churn & Revenue KPI Analysis
-	
+# SaaS Business Performance,Retention & Churn Analytics
+
 ## 1. Background and Overview
 
-This project analyses the performance of a SaaS business using customer, revenue and subscription data.
+This project analyses a SaaS subscription business from January 2024 to June 2025 to understand revenue performance,customer acquisition and retention.
+RThe analysis focuses on Monthly Recurring Revenue(MRR),customer growth, churn across subscription plans and recurring subscription fees from active customers.
 
-The objective is to understand how business is performing in terms of:-
+We use the data available regarding customer and billings to find insights and identify areas where we could investigate opportunities to improve retention and revenue performance.
 
-⁃	how revenue is growing over time
+### Project Objectives:
+* Track MRR,monthly MRR growth, new signups, active customers and ARPU.
+* Understand customer churn and recurring subscription fees associated with them.
+* Compare customer churn across the three subscription plans.
+* Examine customer tenure before churn.
+* Comparing customer acquisition costs with cumulative subscription revenue.
 
-⁃	which subscription type generate the most revenue
+### Tools Used
+* **Python Pandas:** Data preparation and validation
+* **MySQL:** KPI calculations and business analysis
+* **Tableau:** Dashboard development and data validation
 
-⁃	what is the current retention & churn rate
-
-⁃	which plan type has the highest customer churn
-
-⁃	How many customers are joining quarterly
-
-⁃	What is the average revenue generated per user
-
-### Workflow : 
-
-⁃	Initial data validation in Excel
-
-⁃	KPI and business analysis using SQL
-
-⁃	Dashboard in Tableau
-
-⁃	Recommendations based on insights
 
 ## 2. Data Structure and Overview
+The analysis uses two related 
 
-### Data Structure :
+## 3. Data Preparation
+Pandas were used to prepare the datasets before they were imported into MySQL for analysis.
 
-The dataset consists of three tables :-
+The preparation process included:
 
-## Customers Table :
+* Checking the raw datasets for missing values,duplicate records and data inconsistencies.
+* Grouping subscription details of every individual customers into "dim_customers",with one record per customer.
+* Preparing "fact_revenue" for monthly subscription analysis.
+* Deriving customer status and tenure_related fields from the available customer and billing information.
+* Grouping customer tenure into cohorts to help in churn analysis.
 
-<img width="742" height="670" alt="b84aece3-aa9e-41b7-a467-300bb763efe0" src="https://github.com/user-attachments/assets/7e7b4909-30b1-43a9-9dea-f65a169c3200" />
+The final datasets "dim_customers" and "fact_revenue" contains 1000 customer records and 8,793 monthly billing records.
 
+MySQL was then used to calculate business metrics and analyse monthly recurring revenue trend, customer acquisition and churn.
 
-## Revenue Table :
+Tableau was used to present the results through two dashboards:**SaaS Business Performance** and **Customer Retention & Churn**.
 
-<img width="744" height="670" alt="3a285576-6e8a-4424-ad04-91f03df01b34" src="https://github.com/user-attachments/assets/63d481bd-fba9-4850-88c0-9dfc85589cc7" />
+## 4. Executive Summary
 
+The analysis shows that out of 1000 distinct customers,832 were active and 168 had churned by June 2025.This represents an overall churn of 16.80% across the customer base.
 
-## Subscriptions Table :
+In June 2025,month_end MRR reached  ₹207,950.We saw **growth of 5.91% in month-end MRR after May 2025**.The business also recorded 50 new signups in June.These metrics provide a snapshot of recurring revenue performance and customer acquisition at the end of the analysis period.
 
-<img width="743" height="491" alt="5774d1f9-b631-4e09-b6b3-24b391794edd" src="https://github.com/user-attachments/assets/2fa73c79-398a-4d1d-b3df-2acd61731b62" />
+Meanwhile Customer churn was observed across all subscription plans.Basic plan recorded **58 churned customers,Enterprise recorded 57 and Pro plan recorded 53**,that is **17.7%,17.3%** and **15.5% churn rate** respectively.Therefore,Basic plan had the highest churn, while Pro had the lowest.
 
+The analysis also examines churn associated recurring subscription fees, customer tenure before churn and compares acquisition costs and cumulative subscription revenue.Together, these help to identify where further investigation may be useful, particularly retention of customers by plan level and customer lifecycle management and improvement.
 
+## 5. Insights Deep Dive
 
-## 3. Executive Summary
+**Revenue Growth and Customer Acquisition**
 
-The analysis shows customer acquisition and revenue growth, alongside retention and churn in subscription plan
+In June 2025,the business recorded ₹ 207,950 MRR,with month over month growth of 5.91%.It also acquired 50 new customers during the month.
 
-### A. Revenue & Growth Dashboard
+Therefore, the business's recurring revenue increased from May to June while continuing to acquire customers.However,new signs alone do not explain the change in MRR.Changes in customers churn and fees per active customers can influence recurring revenue.
 
-<img width="1244" height="808" alt="a5d902eb-4415-4de5-b13c-1b4e428ab412" src="https://github.com/user-attachments/assets/fcad8873-a0e7-41ef-9df8-600b23543143" />
+Monitoring MRR alongside active customers, signups and ARPU provides us a proper view of performance.
 
-###  Key KPI’s
+**Customer Churn Across Subscription Plans**
 
-⁃	Total Reccuring Revenue :- ₹2,49,000
+Basic plan has 58 churned customers,57 for Enterprise and 53 for pro(17.7%, 17.3% and 15.5% respectively).These are relatively close, but comparing churn against each plan's customer base provides a clearer view of retention.
 
-⁃	Total Customers :- 1000
+**Churn Associated Recurring Revenue**
 
-⁃	 CAC :- ₹110
+Customer churn affects both retention and recurring subscription revenue with them.The analysis assigns each churned customer's monthly subscription fee to the month in which their churn date falls.
 
-⁃	 ARPU :- ₹250
+The total churned revenue is ₹42,000 calculated by summing the monthly fee of customers who churned by June 30,2025,with each customer counted once.Reviewing the monthly churn associated MRR trend alongside churned customer counts helps distinguish the count of customer deoartures from the subscription value associated with those departures.
 
-### B. Customer Churn Dashboard
+**qCustomer Tenure Before Churn**
 
-<img width="1241" height="797" alt="cc64ebc2-d973-4085-a4fd-4bda154a199e" src="https://github.com/user-attachments/assets/af2e9303-a768-48c1-8967-b7c9735249e0" />
+The tenure analysis groups churned customers according to how long they remained subscribed before leaving.This helps identify the lifecycle in which churned customers are concentrated.
 
+Here, if a tenure group contains a noticeable concentration of churned customers, it provides a starting point to investigating customer engagement and whether the product continues to meet customer needs.
+However the number of churned customers in a tenure group does not gives us the probability ti churn.
 
-###  Key KPI’s
 
-- MRR Lost to Churn :- 42000
-  
-- Total Churned Customers :- 168
-  
-- Avg Customer Tenure :- 5 months
-  
-- Retention Rate :- 83.2 %
-  
-- Churn Rate :- 16.8 %
 
-###  Key Findings
 
-⁃	In 2024, MRR peaked in Q4 to Q1 of 2025 , after that it  gradually declined.
 
-⁃	Enterprise plan has highest MRR
 
-⁃	In 2024 signup decreased gradually and rapidly increased in Q4.
-    In 2025, signups are steady
 
-⁃	Basic subscription plan have high churn rate but all the plans have similar churn rate
 
-⁃	Most customers stay for minimum 5 months before leaving
 
-⁃	Customer Churn increases rapidly after Q4 of 2024
 
 
-## 4. Insights Deep Dive
 
-### A : Saas Revenue & Growth Dashboard
-
-(i) The business generated a total MRR of ₹249,800 with Enterprise Subscription Plan contributing the highest share of approximately ₹167,000.
-
-<img width="593" height="320" alt="7e33045a-b6ca-4b3e-8139-155b0e546d1e" src="https://github.com/user-attachments/assets/bfc567ce-ee60-4b3e-9570-72a4e3a5ccf3" />
-
-
-This shows higher-tier customers are primary revenue drivers 
-
-(ii) The customer base grown to 1000 customers, with quarterly signups trend remaining stable.
-
-<img width="646" height="330" alt="60cc7c9c-5f1c-4f43-b769-ff46fbcc2ac1" src="https://github.com/user-attachments/assets/f0f563ad-e4a7-4727-81da-707a8217289d" />
-
-
-Customers acquisition seems to be consistent
-
-(iii) MRR shows strong growth from 2024 to early 2025.
-
-<img width="1230" height="323" alt="b0425fa8-f77b-4813-938a-a2a822d64616" src="https://github.com/user-attachments/assets/bdd0f8f2-4b72-4b39-8387-a98823dea06d" />
-
-After that  a decline in Q2-2025.
-
-This may indicate :-
-
-•	Increased churn
-	
-•	Possibly fewer premium subscription sign-ups
-	
-•	Incomplete quarter data
-
-•	Seasonal trend
-
-This suggests a recent slowdown in recurring revenue growth.
-
-### B. Customer Churn Dashboard
-
-(i) The overall churn rate is 16.8 %, while retention rate’s at 83.2%.
-
-(ii) Average Customer Tenure is 5 months.
-This suggests moderate retention but indicates that many customers are not staying long enough for generating a good Lifetime value.
-
-(iii) The 90+ days bucket has highest churn count of 103 customers.
-
-<img width="583" height="302" alt="471400f2-ee7a-4cb8-9480-e5ca4b272fd6" src="https://github.com/user-attachments/assets/15f902f1-1951-4183-be1b-6159ebf7fb46" />
-
-
-This shows that  most customers that churn may initially see value but fail to continue usage overtime
-
-
-(iii) Across all plans, revenue has been recovered before customer churn.
- That is customers tenure is long enough to recover their acquisition cost.
- 
-<img width="827" height="354" alt="b6dae730-6922-418e-828f-e2cd657af7ef" src="https://github.com/user-attachments/assets/623a47c9-84ba-4a6c-9d6a-d3ba6deaf785" />
-
-
-## 5. Recommendations
-
-
-### High Churn after 90+ days
-
-The churn dashboard shows that most customers are leaving after 90 days and churn rate remains similar across Basic, Pro and Enterprise plan.
-This suggest that the issues may be more closely related to long-term usage rather than a specific plan:
-
-⁃	Send reminder and re-engagement mails after first 2-3 months
-
-⁃	offer discounts or plan upgrade benefits
-
-⁃	Check whether customers facing any issues across plans
-
-⁃	Run feedback surveys across all plans
-
-
-### MRR drop after Q1 of 2025
-
-The revenue dashboard shows decline in MRR:
-
-⁃	Analyse which plan has the most drop
-
-⁃	We saw the quarterly churn increased during this timeframe, this could be the reason         leading to MRR drop
-
-
-### Lower contribution of Basic and Pro plans
-
-⁃	Improve features in lower plans
-
-⁃	Create upgrade offers from Basic to Pro/Enterprise
-
-⁃	Highlight benefits of premium plans
-
-
-## 6. Data Source
-
-The dataset  used in this project is synthetic and sourced from Kaggle.
-
-•	Dataset Name : SaaS Business Metrics: Customers, Plans & Revenue
-
-•	Link : https://www.kaggle.com/datasets/halaturkialotaibi/saas-business-metrics-customers-plans-and-revenue
 
 
