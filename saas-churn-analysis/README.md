@@ -3,7 +3,7 @@
 ## 1. Background and Overview
 
 This project analyses a SaaS subscription business from January 2024 to June 2025 to understand revenue performance,customer acquisition and retention.
-RThe analysis focuses on Monthly Recurring Revenue(MRR),customer growth, churn across subscription plans and recurring subscription fees from active customers.
+The analysis focuses on Monthly Recurring Revenue(MRR),customer growth, churn across subscription plans and recurring subscription fees from active customers.
 
 We use the data available regarding customer and billings to find insights and identify areas where we could investigate opportunities to improve retention and revenue performance.
 
