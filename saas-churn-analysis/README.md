@@ -73,7 +73,13 @@ The two prepared tables are connected through "customer_id".
 
 ### Dataset Overview
 
-
+* Raw customer records | 1,000
+* Raw revenue records | 988
+* Raw subscription records | 988
+* Prepared customer records | 1,000
+* Prepared monthly billing records | 8,793
+* Analysis period | Jan 2024 – Jun 2025
+* Observation cutoff | June 30, 2025
 
 
 ## 3. Data Preparation
